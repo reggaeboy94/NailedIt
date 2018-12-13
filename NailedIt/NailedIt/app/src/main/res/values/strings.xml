@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Nailed It</string>
+    <string name="intelligenceButtonName">Inteligencja</string>
+    <string name="statisticsButtonName">Statystyki</string>
+    <string name="strengthButtonName">Siła</string>
+    <string name="strengthLevel">Level: 1</string>
+    <string name="staminaButtonName">Kondycja</string>
+    <string name="staminaLevel">Level: 1</string>
+    <string name="intelligenceLevel">Level: 1</string>
+    <string name="statsButtonName">Statystyki</string>
+    <string name="achievementsButtonName">Achievementy</string>
+    <string name="activityMainLabel">Hello user!</string>
+    <string name="trainingButtonName">Trening</string>
+    <string name="StatisticsActivityLabel">Statystyki</string>
+    <string name="off_on">Off/On</string>
+    <string name="kroki_w_sumie">Kroki w sumie:</string>
+    <string name="krokomierz">Krokomierz:</string>
+    <string name="kroki_od_uruchomienia">Kroki od uruchomienia:</string>
+    <string name="_0">0</string>
+    <string name="rejestracja">Rejestracja</string>
+    <string name="e_mail">e-mail:</string>
+    <string name="has_o">Hasło:</string>
+    <string name="logowanie">Logowanie</string>
+    <string name="zarejestruj">Zarejestruj</string>
+    <string name="achievementy">Achievementy</string>
+    <string name="todo">TODO</string>
+    <string name="menu_g_wne">Menu główne</string>
+    <string name="wyloguj">wyloguj</string>
+    <string name="pomoc">Pomoc</string>
+    <string name="powt_rz_has_o">Powtórz hasło:</string>
+    <string name="trening_kondycji">Trening Kondycji</string>
+    <string name="trening_si_y">Trening Siły</string>
+    <string name="trening_si_y_woli">Trening Siły Woli</string>
+    <string name="instrukcje">Instrukcje</string>
+</resources>

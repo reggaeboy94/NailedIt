@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "833710192305",
+    "firebase_url": "https://nailedit-2201f.firebaseio.com",
+    "project_id": "nailedit-2201f",
+    "storage_bucket": "nailedit-2201f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833710192305:android:5601a29a4cf3fcc6",
+        "android_client_info": {
+          "package_name": "academy.learnprogramming.nailedit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833710192305-qje0g4jlse7jv6tam2e3c3u473uhspkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0QA1Md73vsDYsB_wxO_UYDiAzWyXYCfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
